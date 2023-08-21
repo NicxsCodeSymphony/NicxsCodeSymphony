@@ -1,4 +1,4 @@
-# 🎵 NicoCodeSymphony
+# 🎵 NicxsCodeSymphony
 
 **`IT STUDENT (Web designer / Musician)`**
 
