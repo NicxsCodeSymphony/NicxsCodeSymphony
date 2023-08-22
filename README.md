@@ -30,4 +30,4 @@ Greetings! I'm a passionate IT learner with a knack for Web Design, Web App Deve
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicocodesymphony&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicxscodesymphony&show_icons=true&theme=gruvbox)
