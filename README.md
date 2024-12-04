@@ -1,8 +1,8 @@
 # 🎵 NicxsCodeSymphony
 
-**`IT STUDENT (Web designer / Musician)`**
+**`IT STUDENT (Website and Application Developer / Musician)`**
 
-Greetings! I'm a passionate IT learner with a knack for Web Design, Web App Development, and freelancing in coding. Problem-solving is my second nature, making troubleshooting a breeze. I'm currently honing my Front End skills and have a grasp of databases. Beyond tech, I'm a musician, harmonizing creativity in both worlds. 🎵🌐.
+Greetings! I'm an IT enthusiast with a passion for web design and web app development. I love coding and freelancing, and problem-solving comes naturally to me, especially when it comes to fixing issues. Right now, I'm focusing on improving my Front End skills and have a good understanding of databases. Outside of tech, I'm also a musician, blending creativity in both fields. 🎵🌐.
 
    <p align="left">
       <a href="https://www.youtube.com/@nicxs_assassin?sub_confirmation=1">
