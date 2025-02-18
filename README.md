@@ -1,6 +1,6 @@
 ![Header](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub)
 
-# **Your GitHub Username**
+# **NicxsCodeSymphony**
 
 ### *IT Student | Website & Application Developer | Musician*
 
