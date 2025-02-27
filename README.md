@@ -27,10 +27,10 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
       
 ### 🎯 Current Focus
       
-- 🔭 Working on full-stack web applications
-- 🌱 Learning advanced Dekstop delevelopment
+- 🔭 Working on full-stack web applications (Lending Syatem)
+- 🌱 Learning advanced Desktop delevelopment
 - 👯 Looking to collaborate on open-source projects
-- 🤔 Still Exploring trends and best practices
+- 🤔 Doing freelance
       
     </td>
     <td valign="top" width="50%">
