@@ -1,10 +1,10 @@
 <!-- HEADER SECTION WITH ANIMATED BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NicxsCodeSymphony&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Where%20Code%20Meets%20Creativity&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NicxsCodeSymphony&fontSize=70&animation=fadeIn&fontAlignY=38&desc=John%Nico%20M.%20Edisan&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/NicxsCodeSymphony"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=IT+Student;Website+%26+Application+Developer;Musician;Creative+Coder;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://github.com/NicxsCodeSymphony"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=IT+Student;Website+%26+Application+Developer;Musician;" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
