@@ -17,9 +17,9 @@
 
 > *Harmonizing code and creativity to orchestrate digital solutions*
 
-I'm an aspiring IT professional with a passion for creating elegant, user-focused web and application experiences. My approach combines technical expertise with creative problem-solving to build solutions that not only function flawlessly but also engage and inspire.
+I'm an aspiring IT professional who loves building user-friendly websites and applications. I combine technical skills with creative problem-solving to create solutions that work smoothly and look great.
 
-When I'm not coding, you'll find me exploring musical compositions—finding the beautiful parallels between writing code and creating music. Both require precision, creativity, and an understanding of patterns to create something greater than the sum of its parts.
+When I'm not coding, I enjoy making music. To me, writing code and composing music are similar—they both require precision, creativity, and a good sense of patterns to create something meaningful.
 
 <table>
   <tr>
@@ -28,9 +28,9 @@ When I'm not coding, you'll find me exploring musical compositions—finding the
 ### 🎯 Current Focus
       
 - 🔭 Working on full-stack web applications
-- 🌱 Learning advanced React patterns and architectures
+- 🌱 Learning advanced Dekstop delevelopment
 - 👯 Looking to collaborate on open-source projects
-- 🤔 Exploring the intersection of AI and web development
+- 🤔 Still Exploring trends and best practices
       
     </td>
     <td valign="top" width="50%">
@@ -39,7 +39,7 @@ When I'm not coding, you'll find me exploring musical compositions—finding the
       
 - 🎸 Play multiple musical instruments
 - 🎹 Compose music in my free time
-- 📚 Avid reader of tech blogs and sci-fi
+- 📚 Also can do troubleshooting
 - 🌍 Love exploring new technologies and frameworks
       
     </td>
