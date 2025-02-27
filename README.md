@@ -1,6 +1,6 @@
 <!-- HEADER SECTION WITH ANIMATED BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A4D68,0D98BA&height=300&section=header&text=NicxsCodeSymphony&fontSize=70&animation=fadeIn&fontAlignY=38&desc=John%20Nico%20M.%20Edisan&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NicxsCodeSymphony&fontSize=70&animation=fadeIn&fontAlignY=38&desc=John%20Nico%20M.%20Edisan&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
