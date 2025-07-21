@@ -13,9 +13,10 @@
 </div>
 
 <!-- ABOUT ME SECTION WITH ANIMATION -->
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 
-> *Harmonizing code and creativity to orchestrate digital solutions*
+> _Harmonizing code and creativity to orchestrate digital solutions_
 
 I'm an aspiring IT professional who loves building user-friendly websites and applications. I combine technical skills with creative problem-solving to create solutions that work smoothly and look great.
 
@@ -27,8 +28,8 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
       
 ### 🎯 Current Focus
       
-- 🔭 Working on full-stack web applications (Lending Syatem)
-- 🌱 Learning advanced Desktop delevelopment
+- 🔭 Working on full-stack web applications (Lending System)
+- 🌱 Learning advanced Desktop development
 - 👯 Looking to collaborate on open-source projects
 - 🤔 Doing freelance
       
@@ -47,6 +48,7 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
 </table>
 
 <!-- TECH STACK WITH ANIMATIONS -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Stack
 
 <div align="center">
@@ -60,6 +62,10 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   </p>
 
   <!-- Backend -->
@@ -67,8 +73,10 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron" />
   </p>
 
   <!-- Database -->
@@ -79,16 +87,21 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   </p>
 
-  <!-- Other Technologies -->
-  <h3>Other Technologies</h3>
+  <!-- Tools & Others -->
+  <h3>Tools & Others</h3>
   <p>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
     <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
   </p>
 </div>
 
 <!-- GITHUB STATS WITH ANIMATIONS -->
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats
 
 <div align="center">
@@ -109,6 +122,7 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
 </div>
 
 <!-- PROJECTS SHOWCASE -->
+
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25px"> Featured Projects
 
 <div align="center">
@@ -119,6 +133,7 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
 </div>
 
 <!-- CONNECT WITH ME -->
+
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50px"> Connect With Me
 
 <div align="center">
