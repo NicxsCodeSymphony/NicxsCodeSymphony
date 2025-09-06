@@ -5,7 +5,7 @@
 
 <!-- ROLE BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Fullstack%20Developer-Abstract%20Digital-blueviolet?style=for-the-badge&logo=react" alt="Current Role Badge" />
+  <img src="https://img.shields.io/badge/Part-time%20Fullstack%20Developer-Abstract%20Digital-blueviolet?style=for-the-badge&logo=react" alt="Current Role Badge" />
 </div>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 > _Harmonizing code and creativity to orchestrate digital solutions_
 
-💼 Currently **Fullstack Developer** at **Abstract Digital**  
+💼 Currently **Part-time Fullstack Developer** at **Abstract Digital**  
 🚀 Leading development across **three major projects**:  
 - 📱 **Mobile App Development** – building scalable and user-friendly mobile apps  
-- 🌐 **Fullstack Web Application** – designing and implementing end-to-end solutions  
+- 🌐 **Fullstack Web Application** – designing and implementing end-to-end solutions with **Next.js**  
 - ⚙️ **Backend Systems** – architecting APIs, infrastructure, and integrations  
 
 I combine technical skills with creative problem-solving to create solutions that work smoothly and look great.  
@@ -39,10 +39,10 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
       
 ### 🎯 Current Focus
       
-- 🔭 Leading projects in mobile, fullstack, and backend development  
+- 🔭 Leading projects in mobile, fullstack, and backend development with **Next.js**  
 - 🌱 Exploring advanced system architecture and scalability  
 - 👯 Open to collaborating on innovative and impactful open-source projects  
-- 🤔 Occasionally doing freelance work  
+- 🤔 Part-time developer with availability for freelance work  
       
     </td>
     <td valign="top" width="50%">
