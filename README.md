@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/NicxsCodeSymphony"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Part-time+Fullstack+Developer+@+Abstract+Digital;Mobile+%7C+Frontend+%7C+Backend;Musician;" alt="Typing SVG" /></a>
+  <a href="https://github.com/NicxsCodeSymphony"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Full+Stack+Developer;@+Abstract+Digital;Mobile+%7C+Frontend+%7C+Backend;" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
