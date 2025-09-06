@@ -5,7 +5,7 @@
 
 <!-- ROLE BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Lead%20Fullstack%20Developer-Abstract%20Digital-blueviolet?style=for-the-badge&logo=react" alt="Current Role Badge" />
+  <img src="https://img.shields.io/badge/20Fullstack%20Developer-Abstract%20Digital-blueviolet?style=for-the-badge&logo=react" alt="Current Role Badge" />
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 > _Harmonizing code and creativity to orchestrate digital solutions_
 
-💼 Currently **Lead Fullstack Developer** at **Abstract Digital**  
+💼 Currently **Fullstack Developer** at **Abstract Digital**  
 🚀 Leading development across **three major projects**:  
 - 📱 **Mobile App Development** – building scalable and user-friendly mobile apps  
 - 🌐 **Fullstack Web Application** – designing and implementing end-to-end solutions  
