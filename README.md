@@ -3,13 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NicxsCodeSymphony&fontSize=70&animation=fadeIn&fontAlignY=38&desc=John%20Nico%20M.%20Edisan&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-<!-- ROLE BADGE -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Part%20time%20Fullstack%20Developer-Abstract%20Digital-blueviolet?style=for-the-badge&logo=react" alt="Current Role Badge" />
-</div>
-
 <p align="center">
-  <a href="https://github.com/NicxsCodeSymphony"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Fullstack+Developer;Mobile+%7C+Frontend+%7C+Backend;Musician;" alt="Typing SVG" /></a>
+  <a href="https://github.com/NicxsCodeSymphony"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Part-time+Fullstack+Developer+@+Abstract+Digital;Mobile+%7C+Frontend+%7C+Backend;Musician;" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -92,6 +87,7 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
@@ -103,6 +99,7 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
