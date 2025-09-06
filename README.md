@@ -3,8 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NicxsCodeSymphony&fontSize=70&animation=fadeIn&fontAlignY=38&desc=John%20Nico%20M.%20Edisan&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
+<!-- ROLE BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Lead%20Fullstack%20Developer-Abstract%20Digital-blueviolet?style=for-the-badge&logo=react" alt="Current Role Badge" />
+</div>
+
 <p align="center">
-  <a href="https://github.com/NicxsCodeSymphony"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=IT+Student;Website+%26+Application+Developer;Musician;" alt="Typing SVG" /></a>
+  <a href="https://github.com/NicxsCodeSymphony"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Lead+Fullstack+Developer;Mobile+%7C+Fullstack+%7C+Backend;Musician;" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -18,9 +23,15 @@
 
 > _Harmonizing code and creativity to orchestrate digital solutions_
 
-I'm an aspiring IT professional who loves building user-friendly websites and applications. I combine technical skills with creative problem-solving to create solutions that work smoothly and look great.
+💼 Currently **Lead Fullstack Developer** at **Abstract Digital**  
+🚀 Leading development across **three major projects**:  
+- 📱 **Mobile App Development** – building scalable and user-friendly mobile apps  
+- 🌐 **Fullstack Web Application** – designing and implementing end-to-end solutions  
+- ⚙️ **Backend Systems** – architecting APIs, infrastructure, and integrations  
 
-When I'm not coding, I enjoy making music. To me, writing code and composing music are similar—they both require precision, creativity, and a good sense of patterns to create something meaningful.
+I combine technical skills with creative problem-solving to create solutions that work smoothly and look great.  
+
+When I'm not coding, I enjoy making music. To me, writing code and composing music are similar—they both require precision, creativity, and a good sense of patterns to create something meaningful.  
 
 <table>
   <tr>
@@ -28,20 +39,20 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
       
 ### 🎯 Current Focus
       
-- 🔭 Working on full-stack web applications (Lending System)
-- 🌱 Learning advanced Desktop development
-- 👯 Looking to collaborate on open-source projects
-- 🤔 Doing freelance
+- 🔭 Leading projects in mobile, fullstack, and backend development  
+- 🌱 Exploring advanced system architecture and scalability  
+- 👯 Open to collaborating on innovative and impactful open-source projects  
+- 🤔 Occasionally doing freelance work  
       
     </td>
     <td valign="top" width="50%">
       
 ### 🎵 Fun Facts
       
-- 🎸 Play multiple musical instruments
-- 🎹 Compose music in my free time
-- 📚 Also can do troubleshooting
-- 🌍 Love exploring new technologies and frameworks
+- 🎸 Play multiple musical instruments  
+- 🎹 Compose music in my free time  
+- 📚 Strong troubleshooting and debugging skills  
+- 🌍 Love exploring new technologies and frameworks  
       
     </td>
   </tr>
@@ -50,8 +61,6 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
 <!-- TECH STACK WITH ANIMATIONS -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Stack
-
-<!-- Frontend -->
 
 ### Frontend
 
@@ -68,8 +77,6 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
-<!-- Backend -->
-
 ### Backend
 
 <p>
@@ -81,8 +88,6 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron" />
 </p>
 
-<!-- Database -->
-
 ### Database
 
 <p>
@@ -90,8 +95,6 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
-
-<!-- Tools & Others -->
 
 ### Tools & Others
 
