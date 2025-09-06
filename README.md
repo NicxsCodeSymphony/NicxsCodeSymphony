@@ -5,7 +5,7 @@
 
 <!-- ROLE BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Part-time%20Fullstack%20Developer-Abstract%20Digital-blueviolet?style=for-the-badge&logo=react" alt="Current Role Badge" />
+  <img src="https://img.shields.io/badge/Part%20time%20Fullstack%20Developer-Abstract%20Digital-blueviolet?style=for-the-badge&logo=react" alt="Current Role Badge" />
 </div>
 
 <p align="center">
