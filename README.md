@@ -122,7 +122,7 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicxsCodeSymphony&theme=midnight-purple&hide_border=true&stroke=9932CC&background=0D1117&ring=9932CC&fire=9932CC&currStreakLabel=9932CC&type=contributions" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicxsCodeSymphony&theme=midnight-purple&hide_border=true&stroke=9932CC&background=0D1117&ring=9932CC&fire=9932CC&currStreakLabel=9932CC" alt="GitHub Streak Stats" />
   
   <img src="https://github-profile-trophy.vercel.app/?username=NicxsCodeSymphony&theme=dracula&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy" />
 </div>
