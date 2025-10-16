@@ -19,14 +19,15 @@
 > _Harmonizing code and creativity to orchestrate digital solutions_
 
 💼 Currently **Part-time Fullstack Developer** at **Abstract Digital**  
-🚀 Leading development across **three major projects**:  
-- 📱 **Mobile App Development** – building scalable and user-friendly mobile apps  
-- 🌐 **Fullstack Web Application** – designing and implementing end-to-end solutions with **Next.js**  
-- ⚙️ **Backend Systems** – architecting APIs, infrastructure, and integrations  
+🚀 Leading development across **three major projects**:
 
-I combine technical skills with creative problem-solving to create solutions that work smoothly and look great.  
+- 📱 **Mobile App Development** – building scalable and user-friendly mobile apps
+- 🌐 **Fullstack Web Application** – designing and implementing end-to-end solutions with **Next.js**
+- ⚙️ **Backend Systems** – architecting APIs, infrastructure, and integrations
 
-When I'm not coding, I enjoy making music. To me, writing code and composing music are similar—they both require precision, creativity, and a good sense of patterns to create something meaningful.  
+I combine technical skills with creative problem-solving to create solutions that work smoothly and look great.
+
+When I'm not coding, I enjoy making music. To me, writing code and composing music are similar—they both require precision, creativity, and a good sense of patterns to create something meaningful.
 
 <table>
   <tr>
@@ -121,7 +122,7 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicxsCodeSymphony&theme=midnight-purple&hide_border=true&stroke=9932CC&background=0D1117&ring=9932CC&fire=9932CC&currStreakLabel=9932CC" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicxsCodeSymphony&theme=midnight-purple&hide_border=true&stroke=9932CC&background=0D1117&ring=9932CC&fire=9932CC&currStreakLabel=9932CC&type=contributions" alt="GitHub Streak Stats" />
   
   <img src="https://github-profile-trophy.vercel.app/?username=NicxsCodeSymphony&theme=dracula&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy" />
 </div>
