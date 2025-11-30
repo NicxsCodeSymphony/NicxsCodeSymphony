@@ -140,7 +140,6 @@ When I'm not coding, I enjoy making music. To me, writing code and composing mus
 
 <!-- CONNECT WITH ME -->
 
-asdasd
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50px"> Connect With Me
 
