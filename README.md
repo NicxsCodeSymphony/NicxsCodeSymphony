@@ -18,7 +18,7 @@
 
 > _Harmonizing code and creativity to orchestrate digital solutions_
 
-💼 Currently **Full-time Fullstack Developer** at **Abstract Digital**  
+💼 Currently **Full-time Fullstack Developer** at **Salesnap**  
 🚀 Leading development across **three major projects**:
 
 - 📱 **Mobile App Development** – building scalable and user-friendly mobile apps
